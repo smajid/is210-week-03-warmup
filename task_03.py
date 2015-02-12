@@ -4,4 +4,4 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
-KLAXON = 'Danger'
+KLAXON = 'Danger '
