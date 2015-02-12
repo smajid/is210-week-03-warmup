@@ -8,7 +8,7 @@ Strip this terribly formatted string of its excess characters.
 
 NERVOUS_AS = """
 
-
+ 
 
 
  //////////A long-tailed cat in a room full of rockin' chairs.,,,,,,,,,, 
@@ -18,3 +18,5 @@ NERVOUS_AS = """
 
 
 """
+NERVOUS_AS = NERVOUS_AS.strip()
+print NERVOUS_AS.lstrip('/') .rstrip(',')
