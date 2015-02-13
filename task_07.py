@@ -5,3 +5,9 @@
 import task_06
 
 WORDS = task_06.WORDS
+graneries_exist="graneries" in WORDS
+print graneries_exist
+
+
+
+    
