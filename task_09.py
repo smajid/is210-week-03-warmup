@@ -6,5 +6,3 @@ THE_ANSWER_TO_EVERYTHING = 42
 
 INFINITE_IMPROBABILITY = 'browning motion'
 """
-
-
